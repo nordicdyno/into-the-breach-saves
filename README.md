@@ -1,6 +1,6 @@
 # into-the-breach-saves
 
-saves and loads progress «Into The Breach» game (https://store.steampowered.com/app/590380/Into_the_Breach/)
+saves and loads «Into The Breach» game progress (https://store.steampowered.com/app/590380/Into_the_Breach/)
 
 
 How to install:
